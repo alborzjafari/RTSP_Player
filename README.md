@@ -1,7 +1,9 @@
 # RTSP streamer using gstreamer.
 
-### Run:
+```
+Run:
   ./run
+```
 ```
 Shortcuts:
   Ctrl+M: Show/hide menu bar.
