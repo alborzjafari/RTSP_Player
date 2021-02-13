@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+from stream import video_widget
+from gui.main_window import AppWindow
+
+
+app_window = AppWindow(video_widget.VideoWidget)
+app_window.show()
